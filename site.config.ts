@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Baozi Blog',
 
   // social usernames (optional)
-//   twitter: '',
-//   github: '',
+  twitter: '',
+  github: '#',
 //   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
